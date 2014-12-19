@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "about": "About",
+    "openstreetmap": "OpenStreetMap",
+    "contact": "Contact"
+  },
+  "intro": {
+    "text": "An open project to collaboratively map the Amazon in OpenStreetMap"
+  },
+  "about": {
+    "title": "About Mapazonia"
+  },
+  "openstreetmap": {
+    "title": "OpenStreetMap",
+    "content": [
+      "<p>OpenStreetMap is an editable map of the whole world, which is being built largely from scratch, and released with an open content license.</p>",
+      "<p>The OpenStreetMap License allows free (or almost free) access to map images and all of underlying map data, and the project aims to promote new and interesting uses of this data.</p>"
+    ],
+    "more": "More about OSM"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": [
+      "<p>If you want to participate please get in contact with us.</p>",
+      "<p>You can help mapping, sponsoring or just spreading the word about the project.</p>",
+      "<h3>¡Thanks!</h3>"
+    ],
+    "twitter": "Twitter",
+    "mailing": "Mailing List",
+    "wiki": "Wiki"
+  }
+}

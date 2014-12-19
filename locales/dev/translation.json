@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "openstreetmap": "OpenStreetMap",
+    "contact": "Contacto"
+  },
+  "intro": {
+    "text": "Un proyecto abierto para mapear colaborativamente la Amazonia en OpenStreetMap"
+  },
+  "about": {
+    "title": "Acerca de Mapazonia",
+    "content": [
+      "<p>Mapazonia tiene por objetivo mejorar la cobertura de OSM en la zona de la Amazonia, usando imágenes de satélite y mapeando geometrías de ríos, transporte y usos de suelo.</p>",
+      "<p>Generar cartografía detallada ayudará a muchas organizaciones que están trabajando en la región a poder cumplir sus objetivos. Entre todos, podemos colaborar a cuidar la Amazonia y todos sus habitantes.</p>",
+      "<p>El proyecto nace como iniciativa de la comunidad latinoamericana de OpenStreetMap con el objetivo de llevar adelante mapeos colaborativos sobre terrenos y problemáticas comunes a la región.</p>",
+      "<p>Se utiliza el gestor de tareas de OSM para definir las áreas sobre las que se trabaja y se organizan mapatones donde se ofrecen capacitaciones en el uso de las herramientas de mapeo colaborativo.</p>"
+    ]
+  },
+  "openstreetmap": {
+    "title": "OpenStreetMap",
+    "content": [
+      "<p>OpenStreetMap (también referido como OSM) es un proyecto colaborativo para crear un mapa libre y actualizable de todo el mundo; por medio de una comunidad de usuarios, es decir personas con un objetivo común, que ceden su tiempo desinteresadamente y sin fines de lucro para tener la posibilidad de ver, copiar, modificar, y usar información geográfica de cualquier parte del mundo sin restricciones de ningún tipo.</p>"
+    ],
+    "more": "Más acerca de OSM"
+  },
+  "contact": {
+    "title": "Cómo contactarnos",
+    "content": [
+      "<p>Si quieres participar, no dudes en comunicarte con nosotros.</p>",
+      "<p>Puedes ayudar mapeando, auspiciando o simplemente difundiendo el proyecto.</p>",
+      "<h3>¡Muchas gracias!</h3>"
+    ],
+    "twitter": "Twitter",
+    "mailing": "Lista de Correos",
+    "wiki": "Wiki"
+  }
+}

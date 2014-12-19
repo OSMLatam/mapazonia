@@ -1,3 +1,11 @@
+$.i18n.init(function(t) {
+  $(".nav").i18n();
+  $(".intro").i18n();
+  $("#about").i18n();
+  $("#openstreetmap").i18n();
+  $("#contact").i18n();
+});
+
 // jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {

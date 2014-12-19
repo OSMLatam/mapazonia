@@ -3,6 +3,7 @@ $.i18n.init(function(t) {
   $(".intro").i18n();
   $("#about").i18n();
   $("#openstreetmap").i18n();
+  $("#tasks").i18n();
   $("#contact").i18n();
 });
 

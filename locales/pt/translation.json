@@ -1,5 +1,37 @@
 {
+  "nav": {
+    "about": "Sobre",
+    "openstreetmap": "OpenStreetMap",
+    "contact": "Contato"
+  },
   "intro": {
-    "text": "Um espaço aberto para mapear de forma colaborativa do Amazônia em OpenStreetMap"
+    "text": "Un projeto aberto para mapear colaborativamente a Amazonia no OpenStreetMap"
+  },
+  "about": {
+    "title": "Sobre a Mapazonia",
+    "content": [
+      "<p>A Mapazonia tem o objetivo de melhorar a cobertura do OSM na região Amazônica, usando imagens de satélite para mapear a geometrias de rios e as rodovias.</p>",
+      "<p>Gerar uma cartografia detalhada ajudará a muitas organizações que estão trabalhando na região a poder cumprir seus objetivos. Todos podemos colaborar para cuidar da Amazonia e de todos seus habitantes.</p>",
+      "<p>O projeto nasce como uma iniciativa da comunidade latinoamericana do OpenStreetMap com o objetivo de levar adiante o mapeamento colaborativo de áreas e problemas comuns a nosso continente.</p>",
+      "<p>Utilizamos o gestor de tarefas do Time Humanitário do OSM para definir as áreas nas quais trabalharemos. Além disso, vamos organizar mapatonas onde capacitaremos as pessoas a usar as ferramentas de mapeamento colaborativo.</p>"
+    ]
+  },
+  "openstreetmap": {
+    "title": "OpenStreetMap",
+    "content": [
+      "<p>OpenStreetMap (também conhecido como OSM) é um projeto colaborativo para criar um mapa livre e atualizável de todo o mundo; por meio de uma comunidade de usuários, isto é pessoas com um objetivo em comum, que cedem seu tempo voluntariamente e sem fins comerciais para ter a possibilidade de ver, copiar, modificar e usar a informação geográfica de qualquer parte do mundo sem nenhum tipo de restrição.</p>"
+    ],
+    "more": "Mais sobre o OSM"
+  },
+  "contact": {
+    "title": "Como entrar em contato conosco",
+    "content": [
+      "<p>Se você tem interessem em participar, entre em contato conosco.</p>",
+      "<p>Você pode ajudar mapeando, patrocinando ou simplemente divulgando o projeto.</p>",
+      "<h3>Muito obrigado!</h3>"
+    ],
+    "twitter": "Twitter",
+    "mailing": "Lista de Discussão",
+    "wiki": "Wiki"
   }
 }

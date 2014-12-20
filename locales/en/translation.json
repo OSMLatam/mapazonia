@@ -8,7 +8,13 @@
     "text": "An open project to collaboratively map the Amazon in OpenStreetMap"
   },
   "about": {
-    "title": "About Mapazonia"
+    "title": "About Mapazonia",
+    "content": [
+      "<p>Mapazonia has the aim of improve the OSM data in the Amazon region, using satellite images to map roads and rivers geometry.</p>",
+      "<p>A detailed cartography will help many organizations that are working in the Amazon to accomplish their objectives. Together we can collaborate to look after the Amazon and its inhabitants.</p>",
+      "<p>The project was born as an initiative of the Latinamerican OpenStreetMap Community with the objective of go ahead with collaborative mapping of common areas and problems in the continent.</p>",
+      "<p>We use the Tasking Manager of the Humanitarian OpenStreetMap Team to define the areas where we are going to work. Furthermore we will organize mapathons to teach the persons how to use the tools of collaborative mapping.</p>"
+    ]
   },
   "openstreetmap": {
     "title": "OpenStreetMap",

@@ -5,15 +5,15 @@
     "contact": "Contato"
   },
   "intro": {
-    "text": "Un projeto aberto para mapear colaborativamente a Amazonia no OpenStreetMap"
+    "text": "Um projeto para mapear colaborativamente a Amazônia no OpenStreetMap"
   },
   "about": {
     "title": "Sobre a Mapazonia",
     "content": [
-      "<p>A Mapazonia tem o objetivo de melhorar a cobertura do OSM na região Amazônica, usando imagens de satélite para mapear a geometrias de rios e as rodovias.</p>",
-      "<p>Gerar uma cartografia detalhada ajudará a muitas organizações que estão trabalhando na região a poder cumprir seus objetivos. Todos podemos colaborar para cuidar da Amazonia e de todos seus habitantes.</p>",
+      "<p>O Mapazonia tem como objetivo melhorar a cobertura do OpenStreetMap na região Amazônica, usando imagens de satélite para mapear a geometrias de rios e as rodovias.</p>",
+      "<p>Gerar uma cartografia detalhada ajudará a muitas organizações que estão trabalhando na região a poder cumprir seus objetivos. Todos podemos colaborar para cuidar da Amazônia e de todos seus habitantes.</p>",
       "<p>O projeto nasce como uma iniciativa da comunidade latinoamericana do OpenStreetMap com o objetivo de levar adiante o mapeamento colaborativo de áreas e problemas comuns a nosso continente.</p>",
-      "<p>Utilizamos o gestor de tarefas do Time Humanitário do OSM para definir as áreas nas quais trabalharemos. Além disso, vamos organizar mapatonas onde capacitaremos as pessoas a usar as ferramentas de mapeamento colaborativo.</p>"
+      "<p>Utilizamos o gestor de tarefas do Humanitarian OpenStreetMap Team para definir as áreas nas quais trabalharemos. Além disso, vamos organizar mapatonas onde capacitaremos as pessoas a usar as ferramentas de mapeamento colaborativo.</p>"
     ]
   },
   "openstreetmap": {

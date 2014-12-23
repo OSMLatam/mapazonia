@@ -2,6 +2,7 @@
   "nav": {
     "about": "Acerca de",
     "openstreetmap": "OpenStreetMap",
+    "tasks": "Tareas",
     "contact": "Contacto"
   },
   "intro": {
@@ -22,6 +23,10 @@
       "<p>OpenStreetMap (también referido como OSM) es un proyecto colaborativo para crear un mapa libre y actualizable de todo el mundo; por medio de una comunidad de usuarios, es decir personas con un objetivo común, que ceden su tiempo desinteresadamente y sin fines de lucro para tener la posibilidad de ver, copiar, modificar, y usar información geográfica de cualquier parte del mundo sin restricciones de ningún tipo.</p>"
     ],
     "more": "Más acerca de OSM"
+  },
+  "tasks": {
+    "title": "Tareas",
+    "details": "Detalles"
   },
   "contact": {
     "title": "Cómo contactarnos",

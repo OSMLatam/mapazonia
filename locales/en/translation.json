@@ -2,6 +2,7 @@
   "nav": {
     "about": "About",
     "openstreetmap": "OpenStreetMap",
+    "tasks": "Tasks",
     "contact": "Contact"
   },
   "intro": {
@@ -17,6 +18,10 @@
       "<p>The OpenStreetMap License allows free (or almost free) access to map images and all of underlying map data, and the project aims to promote new and interesting uses of this data.</p>"
     ],
     "more": "More about OSM"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "details": "Details"
   },
   "contact": {
     "title": "Contact Us",

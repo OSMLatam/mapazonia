@@ -1,6 +1,6 @@
 mapazonia
 =========
 
-Sitio web del proyecto Mapazonia
+Mapazonia Project Website
 
-El sitio está basado en el theme [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) de [Bootstrap](http://getbootstrap.com/).
+This site is based on [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) theme.

@@ -28,8 +28,8 @@ $(function() {
         $('<div></div>')
           .append($('<a target="_blank"></a>')
             .attr('href', 'http://tasks.hotosm.org/project/' +  feature.id)
-            .append(' ' + $.t("tasks.details"))
-            .append(' <span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span>')
+            .append($.t("tasks.details"))
+            .append(' <i class="fa fa-share"></i>')
           )
           .css('text-align', 'right')
       );

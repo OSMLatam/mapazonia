@@ -33,17 +33,3 @@ $(function() {
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
-
-
-// Initialize Leaflet Map
-
-$(function() {
-  var map = L.map('map').setView([51.505, -0.09], 13);
-
-  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
-      zoomControl: false
-  }).addTo(map);
-
-  map.scrollWheelZoom.disable();
-});

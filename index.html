@@ -56,6 +56,7 @@
 
     <!-- Custom CSS -->
     <link href="css/mapazonia.min.css" rel="stylesheet">
+    <link href="css/map.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -129,19 +130,21 @@
     </header>
 
     <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <h2 data-i18n="about.title"></h2>
-          <div data-i18n="[html]about.content"></div>
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h2 data-i18n="about.title"></h2>
+            <div data-i18n="[html]about.content"></div>
+          </div>
         </div>
       </div>
     </section>
 
     <!-- OpenStreetMap Section -->
-    <section id="openstreetmap" class="content-section text-center">
-      <div class="openstreetmap-section">
-        <div class="container">
+    <section id="openstreetmap" class="map-section">
+      <div class="container">
+        <div class="row">
           <div class="col-lg-8 col-lg-offset-2">
             <h2 data-i18n="openstreetmap.title"></h2>
             <div data-i18n="[html]openstreetmap.content"></div>
@@ -152,36 +155,42 @@
     </section>
 
     <!-- Tasks Section -->
-    <section id="tasks" class="container content-section text-center">
-      <div class="row">
-        <div class="col-sm-12 col-md-12">
-          <h2 data-i18n="tasks.title"></h2>
-          <div id="map"></div>
+    <section id="tasks">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12">
+            <h2 data-i18n="tasks.title"></h2>
+            <div id="map"></div>
+          </div>
         </div>
       </div>
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <h1><i class="fa fa-dot-circle-o fa-brand"></i></h1>
-          <h2 data-i18n="contact.title"></h2>
-          <div data-i18n="[html]contact.content"></div>
-          <ul class="list-inline banner-social-buttons">
-            <li>
-              <a href="mailto:contact@mapazonia.org" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name" data-i18n="contact.mail"></span></a>
-            </li>
-            <li>
-              <a href="https://twitter.com/Mapazonia" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name" data-i18n="contact.twitter"></span></a>
-            </li>
-            <li>
-              <a href="http://wiki.openstreetmap.org/wiki/Mapazonia" class="btn btn-default btn-lg"><i class="fa fa-info fa-fw"></i> <span class="network-name" data-i18n="contact.wiki"></span></a>
-            </li>
-            <li>
-              <a href="https://lists.openstreetmap.org/pipermail/talk-latam/" class="btn btn-default btn-lg"><i class="fa fa-archive fa-fw"></i> <span class="network-name" data-i18n="contact.mailing"></span></a>
-            </li>
-          </ul>
+    <section id="contact" class="light-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="icon">
+              <img src="img/icon.png"/>
+            </div>
+            <h2 data-i18n="contact.title"></h2>
+            <div data-i18n="[html]contact.content"></div>
+            <ul class="list-inline banner-social-buttons">
+              <li>
+                <a href="mailto:contact@mapazonia.org" class="btn btn-info btn-lg"><i class="fa fa-envelope fa-fw"></i> <span class="network-name" data-i18n="contact.mail"></span></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/Mapazonia" class="btn btn-info btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name" data-i18n="contact.twitter"></span></a>
+              </li>
+              <li>
+                <a href="http://wiki.openstreetmap.org/wiki/Mapazonia" class="btn btn-info btn-lg"><i class="fa fa-info fa-fw"></i> <span class="network-name" data-i18n="contact.wiki"></span></a>
+              </li>
+              <li>
+                <a href="https://lists.openstreetmap.org/pipermail/talk-latam/" class="btn btn-info btn-lg"><i class="fa fa-archive fa-fw"></i> <span class="network-name" data-i18n="contact.mailing"></span></a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>

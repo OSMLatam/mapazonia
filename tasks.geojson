@@ -42,7 +42,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mapazonia - Colombia - Western Caquetá",
-        "status": 0
+        "status": "0"
       },
       "geometry": {
         "type": "Point",

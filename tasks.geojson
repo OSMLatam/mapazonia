@@ -22,7 +22,7 @@
       },
       "properties": {
         "name": "Mapazonia - Brazil - Xingu Basin",
-        "status": "57"
+        "status": "59"
       }
     }
     ,
@@ -36,6 +36,20 @@
       "properties": {
         "name": "Mapazonia - Colombia",
         "status": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapazonia - Colombia - Western Caquetá",
+        "status": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9761962890625,
+          0.8294388013837057
+        ]
       }
     }
   ]

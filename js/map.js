@@ -71,7 +71,7 @@ $(function() {
       },
       onEachFeature: onEachFeature
     }).addTo(map);
-    map.fitBounds(featuresLayer.getBounds());
+    map.fitBounds(featuresLayer.getBounds(), {padding: [5, 5]});
   };
   $.getJSON("tasks.geojson", createFeaturesLayer);
 

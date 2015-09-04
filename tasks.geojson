@@ -7,10 +7,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-68.94, -11.01]
-      },
-      "properties": {
-        "name": "Mapazonia - Bolivia - Acre Subbasin",
-        "status": "82"
       }
     },
     {
@@ -19,10 +15,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-53.8907, -14.2631]
-      },
-      "properties": {
-        "name": "Mapazonia - Brazil - Xingu Basin",
-        "status": "59"
       }
     },
     {
@@ -31,10 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-69.7440, -1.2448]
-      },
-      "properties": {
-        "name": "Mapazonia - Colombia - SouthEast Caquetá River",
-        "status": "99"
       }
     },
     {
@@ -43,10 +31,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-74.9762, 0.8294]
-      },
-      "properties": {
-        "name": "Mapazonia - Colombia - Western Caquetá River",
-        "status": "30"
       }
     }
   ]

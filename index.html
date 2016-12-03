@@ -165,6 +165,9 @@
         </div>
       </div>
     </section>
+    
+  <!-- Map Section -->
+    <div id="map"></div>
 
     <!-- Contact Section -->
     <section id="contact" class="light-section">
@@ -218,6 +221,16 @@
     <!-- Custom JavaScript -->
     <script src="js/mapazonia.js"></script>
     <script src="js/map.js"></script>
+
+	<!-- OpenStreetMap API This is where you can add a leaflet map-->
+ <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+ <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+ <script> var map = L.map('map').setView([-3, -75],5);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    maxZoom: 18
+}).addTo(map);
+ </script>
 
     <!-- Google Analytics -->
     <script>
